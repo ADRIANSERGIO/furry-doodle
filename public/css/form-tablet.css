@@ -1,0 +1,48 @@
+@media (min-width: 768px) {
+    .main-header-top-bar {
+        display: flex;
+        justify-content: space-between;
+    }
+    .copy-header {
+        max-width: 350px;
+        text-align: right;
+    }
+    .burger-menu {
+        display: none;
+    }
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+    }
+    .navbar ul {
+        display: flex;
+    }
+    .navbar li {
+        margin: 0 5px;
+    }
+    .control-input {
+        display: flex;
+        width: 70%;
+        padding: 8px;
+        margin: auto;
+    }
+    .the_form {
+        display: block;
+        margin: 300PX;
+        height: 130px;
+        padding: 12px;
+        box-sizing: border-box;
+        width: 70%;
+    }
+    .button-form {
+        display: block;
+        width: 70%;
+        margin: 10px;
+        margin: auto;
+        transition-property: background-color;
+        transition-duration: 0.5s;
+    }
+    .button-form:hover {
+        background-color: #0022AA;
+    }
+}

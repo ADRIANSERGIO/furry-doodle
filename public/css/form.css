@@ -1,0 +1,132 @@
+     * {
+         box-sizing: border-box;
+     }
+     
+     body {
+         font-family: Roboto, sans-serif;
+         background-color: #ebebeb;
+         font-size: 12px;
+         margin-top: 10px;
+     }
+     
+     .main-header {
+         background-color: #EAC926;
+         padding: 20px;
+     }
+     
+     .burger-menu {
+         background-color: #03264C;
+         color: #ffffff;
+         display: block;
+         max-width: 36px;
+         padding: 9px 0;
+         border-radius: 8px;
+         text-align: center;
+         font-size: 18px;
+         margin: auto;
+     }
+     
+     .logo {
+         width: 200px;
+     }
+     
+     .copy-header {
+         font-weight: 400;
+         text-align: center;
+     }
+     
+     .navbar {
+         display: none;
+     }
+     
+     .navbar ul {
+         list-style: none;
+         margin: 0;
+         padding: 0;
+     }
+     
+     .center {
+         text-align: center;
+     }
+     
+     .navbar a {
+         text-decoration: none;
+         color: black;
+         display: inline-block;
+         padding: 5px 0;
+         font-size: 17px;
+     }
+     
+     .form {
+         padding: 20px 15px;
+     }
+     
+     .control-form {
+         margin-bottom: 15px;
+     }
+     
+     .control-form label {
+         margin-bottom: 5px;
+         font-style: italic;
+         display: block;
+     }
+     
+     .control-input {
+         width: 100%;
+         padding: 8px;
+     }
+     
+     .button-form {
+         background-color: #1259c3;
+         border: none;
+         font-size: 18px;
+         color: #ffffff;
+         padding: 5px 10px;
+         border-radius: 5px;
+         width: 100%;
+         margin: 10px;
+     }
+     
+     .invisible label {
+         display: none;
+     }
+     
+     .Ingreso {
+         text-decoration: none;
+         color: #03264C;
+     }
+     
+     .Tarjeta {
+         color: #1259c3;
+         text-align: center;
+         font-size: 2em;
+     }
+     
+     .Descripcion {
+         text-align: center;
+         color: #666;
+         font-weight: 100px;
+     }
+     
+     .Escrito {
+         text-align: center;
+         color: #666;
+         font-size: 12px;
+         box-sizing: border-box;
+     }
+     
+     .Gift {
+         color: #1259c3;
+         text-align: center;
+         font-size: 25px;
+     }
+     
+     .Seguridad {
+         color: #1259c3;
+         text-align: center;
+         font-size: 25px;
+     }
+     
+     .Todo {
+         margin-bottom: 10px;
+     }
