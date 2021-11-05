@@ -15,7 +15,7 @@
         transition: transform 950ms;
     }
     .wrap:hover .fa-truck {
-        transform: rotate(-450deg);
+        transform: rotate(-90deg);
     }
     main article:hover {
         box-shadow: 0px 0px 10px rgb(100, 100, 100);
