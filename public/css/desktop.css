@@ -12,7 +12,7 @@
         display: block;
     }
     .wrap .fa-truck {
-        transition: transform 950ms;
+        transition: transform 650ms;
     }
     .wrap:hover .fa-truck {
         transform: rotate(-90deg);
